@@ -1,11 +1,16 @@
-import { Estilos } from "./componentes/EstilosGlobais/Estilos";
+import { Card } from "./componentes/Card/card.jsx";
+import { Estilos } from "./componentes/EstilosGlobais/estilos.jsx";
+import { ProvedorTema } from "./componentes/ProvedorTema/ProvedorTema.jsx";
 
 function App() {
   return (
-    <div>
+    <ProvedorTema>
       <Estilos/>
-   <h1>Freelando</h1>
-    </div>
+      <Card>
+         <h1>Freelando</h1>
+      </Card>
+  
+    </ProvedorTema>
   );
 }
 
