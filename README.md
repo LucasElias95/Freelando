@@ -1,3 +1,20 @@
+# Freelando
+
+Projeto criado através de curso de "React: desenvolvendo componentes customizados e acessíveis com Emotion" pela plataforma da Alura
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Freelando**
+| :label: Tecnologias | JavaScript, React
+
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![image](https://github.com/LucasElias95/freelando/assets/130596866/a6bb7a3b-c881-438c-8aa1-4ba78e971d22#vitrinedev)
+
+No projeto foi ensinado a usar o figma, a biblioteca do emotion styled. Funções de teclado para abrir e fechar uma lista suspensa.
+
+![image](https://github.com/LucasElias95/freelando/assets/130596866/ef571522-7782-4cf5-ad49-b00543ed537d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,9 +79,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
