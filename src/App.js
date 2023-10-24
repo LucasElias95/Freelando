@@ -3,7 +3,7 @@ import { Card } from "./componentes/Card/card.jsx";
 import { Estilos } from "./componentes/EstilosGlobais/estilos.jsx";
 import { ProvedorTema } from "./componentes/ProvedorTema/ProvedorTema.jsx";
 import { Tipografia } from "./componentes/Tipografia/Tipografia";
-import { Botao } from "./Botao/Botao.jsx";
+import { Botao } from "./componentes/Botao/Botao.jsx";
 import { Cabecalho } from "./componentes/Card/card.jsx";
 import { Rodape } from "./componentes/Card/card.jsx";
 import { Link } from "./componentes/Link/Link.jsx";
