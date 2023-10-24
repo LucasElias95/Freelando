@@ -6,9 +6,9 @@ const LabelEstilizada = styled.label`
     box-sizing: border-box;
     font-weight: 400;
     font-size: 20px;
-    line-weight: 24px;
-
+    line-height: 24px;
 `
+
 const InputEstilizado = styled.input`
     display: block;
     width: 100%;
@@ -25,9 +25,9 @@ const InputEstilizado = styled.input`
     line-height: 17px;
 `
 
-export const CampoTexto = ({titulo}) => {
+export const CampoTexto = ({ titulo }) => {
     return (<LabelEstilizada>
         {titulo}
-        <InputEstilizado/>
+        <InputEstilizado />
     </LabelEstilizada>)
 }

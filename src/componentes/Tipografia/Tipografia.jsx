@@ -1,4 +1,4 @@
-import styled  from "@emotion/styled";
+import styled from "@emotion/styled"
 
 const componentes = {
     h1: 'h1',
@@ -54,11 +54,10 @@ const estilos = {
     `
 }
 
-export const Tipografia = ({variante, componente, children}) =>{
+export const Tipografia = ({ variante, componente, children }) => {
     const tag = componentes[componente]
     const ComponenteUtilizado = styled[tag]`${estilos[variante]}`
     return (<ComponenteUtilizado>
         {children}
-        </ComponenteUtilizado>)
-
+    </ComponenteUtilizado>)
 }
